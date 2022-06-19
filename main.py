@@ -7,6 +7,7 @@
 def print_hi(Number):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Number: {Number}')  # Press Ctrl+F8 to toggle the breakpoint.
+    return(f'Number: {Number}')
 
 
 # Press the green button in the gutter to run the script.
