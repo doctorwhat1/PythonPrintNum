@@ -12,5 +12,6 @@ def print_hi(Number):
 # Press the green button in the gutter to run the script.
 
 print_hi('16')
+lol
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
