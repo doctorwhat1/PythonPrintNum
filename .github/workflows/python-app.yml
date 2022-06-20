@@ -52,6 +52,7 @@ jobs:
         token: ${{ secrets.TELEGRAM_TOKEN }}
         message: |
           Repository: ${{ github.repository }}
+          Name: ${{ github.action }}
           Author: ${{ github.actor }}
           Action: ${{ github.event_name }}
           Job status: ${{ job.status }}
